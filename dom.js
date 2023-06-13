@@ -101,7 +101,7 @@ setTimeout(affichageHeure, 1000);
 }
 
 affichageHeure();
-
+//3. Utilisez JavaScript pour créer un bouton qui, lorsqu'on clique dessus, crée un nouvel élément div avec un texte à l'intérieur et l'ajoute à la fin du body.
 function briques (){
     var message = window.prompt('entrez votre message');
     let wall = document.getElementById('wall');
